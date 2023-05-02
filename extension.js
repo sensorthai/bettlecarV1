@@ -1,7 +1,7 @@
 ({
-    name: "Servo", // Category Name
+    name: "BettleV1", // Category Name
     description: "Set angle to Servo motor",
-    author: "microBlock",
+    author: "upskill",
     category: "Device Control",
     version: "1.0.0",
     icon: "/static/icon.png", // Category icon
@@ -9,7 +9,7 @@
     blocks: [ // Blocks in Category
         {
             xml: `
-                <block type="servo">
+                <block type="bservo">
                     <value name="pin">
                         <shadow type="math_number">
                             <field name="NUM">14</field>
