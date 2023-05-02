@@ -1,4 +1,4 @@
-Blockly.Python['servo'] = function(block) {
+Blockly.Python['bservo'] = function(block) {
   Blockly.Python.definitions_['from_machine_import_pin'] = 'from machine import Pin';
   Blockly.Python.definitions_['from_machine_import_pwm'] = 'from machine import PWM';
 
