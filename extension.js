@@ -1,6 +1,6 @@
 ({
     name: "BettleV1", // Category Name
-    description: "Set angle to Servo motor",
+    description: "Block for Bettle Car",
     author: "upskill",
     category: "Device Control",
     version: "1.0.0",
