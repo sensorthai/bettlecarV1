@@ -1,7 +1,7 @@
 ({
-    name: "BettleV1", // Category Name
+    name: "Bettle Car V1", // Category Name
     description: "Block for Bettle Car",
-    author: "upskill",
+    author: "up-skill.asia",
     category: "Device Control",
     version: "1.0.0",
     icon: "/static/icon.png", // Category icon
