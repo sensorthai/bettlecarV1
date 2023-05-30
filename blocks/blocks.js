@@ -1,24 +1,36 @@
 Blockly.defineBlocksWithJsonArray(
-[{
-  "type": "beservo",
-  "message0": "Bettle Servo pin %1 set angle %2 °",
+[
+{
+  "type": "block_type",
+  "message0": "%1 %2",
   "args0": [
     {
-      "type": "input_value",
-      "name": "pin",
-      "check": "Number"
+      "type": "field_dropdown",
+      "name": "NAME",
+      "options": [
+        [
+          "option",
+          "OPTIONNAME"
+        ],
+        [
+          "option",
+          "OPTIONNAME"
+        ],
+        [
+          "option",
+          "OPTIONNAME"
+        ]
+      ]
     },
     {
       "type": "input_value",
-      "name": "angle",
-      "check": "Number"
+      "name": "code",
+      "align": "RIGHT"
     }
   ],
-  "inputsInline": true,
-  "previousStatement": null,
-  "nextStatement": null,
-  "colour": "#0271D9",
+  "colour": 230,
   "tooltip": "",
   "helpUrl": ""
-}]
+}
+ ]
 );
