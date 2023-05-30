@@ -1,6 +1,6 @@
 Blockly.defineBlocksWithJsonArray(
 [{
-  "type": "bservo",
+  "type": "beservo",
   "message0": "Bettle Servo pin %1 set angle %2 °",
   "args0": [
     {
