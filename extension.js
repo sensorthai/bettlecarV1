@@ -9,13 +9,13 @@
     blocks: [ // Blocks in Category
         {
             xml: `
-                <block type="bservo">
+                <block type="beservo">
                     <value name="pin">
                         <shadow type="math_number">
                             <field name="NUM">14</field>
                         </shadow>
                     </value>
-                    <value name="angle">
+                    <value name="beangle">
                         <shadow type="math_number">
                             <field name="NUM">90</field>
                         </shadow>
