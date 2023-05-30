@@ -15,7 +15,7 @@
                             <field name="NUM">14</field>
                         </shadow>
                     </value>
-                    <value name="beangle">
+                    <value name="angle">
                         <shadow type="math_number">
                             <field name="NUM">90</field>
                         </shadow>
