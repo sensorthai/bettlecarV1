@@ -1,9 +1,9 @@
 ({
     name: "Bettle Car V1", // Category Name
-    description: "Block for Bettle Car",
+    description: "Bettle CarV1",
     author: "up-skill.asia",
     category: "Device Control",
-    version: "1.0.0",
+    version: "1.1.0",
     icon: "/static/icon.png", // Category icon
     color: "#0271D9", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
