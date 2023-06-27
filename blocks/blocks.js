@@ -1,7 +1,7 @@
 Blockly.defineBlocksWithJsonArray(
 [
 {
-  "type": "beservo",
+  "type": "b_servo",
   "message0": "%1 %2",
   "args0": [
     {
