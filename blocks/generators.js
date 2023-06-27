@@ -1,4 +1,4 @@
-Blockly.Python['beservo'] = function(block) {
+Blockly.Python['b_servo'] = function(block) {
   var dropdown_name = block.getFieldValue('NAME');
   var value_code = Blockly.Python.valueToCode(block, 'code', Blockly.Python.ORDER_ATOMIC);
   // TODO: Assemble Python into code variable.
