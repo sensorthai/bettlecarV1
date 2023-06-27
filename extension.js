@@ -9,7 +9,7 @@
     blocks: [ // Blocks in Category
         {
             xml: `
-                <block type="beservo">
+                <block type="b_servo">
                     <value name="pin">
                         <shadow type="math_number">
                             <field name="NUM">14</field>
